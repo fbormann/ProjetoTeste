@@ -1,0 +1,3 @@
+
+--Output from Update Field List as soon as I create a new Field--
+--Output from Register the same field twice--
